@@ -1,0 +1,9 @@
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\bin\Debug\Calculadora de Teste.exe.config
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\bin\Debug\Calculadora de Teste.exe
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\bin\Debug\Calculadora de Teste.pdb
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\obj\Debug\Calculadora de Teste.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\obj\Debug\Calculadora_de_Teste.Properties.Resources.resources
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\obj\Debug\Calculadora de Teste.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\obj\Debug\Calculadora de Teste.exe
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\obj\Debug\Calculadora de Teste.pdb
+C:\Users\adria\source\repos\Calculadora de Teste\Calculadora de Teste\obj\Debug\Calculadora_de_Teste.Calculadora.resources
