@@ -1,0 +1,37 @@
+/* Para alterar o estilo de uma tag*/
+button, input {
+    padding: 30px; 
+    font-size:30px; 
+    font-family: Arial, Helvetica, sans-serif;
+    width:120px;
+}
+
+#display {
+    width: 96.5%;
+    height: 70px;
+    background: #E0FFFF;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+/* Para alterar a formatação de um id específico*/
+#clean {
+    width: 100%;
+}
+
+button:hover {
+    background-color: #40E0D0;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+/* Para criar uma classe nova */
+.table {
+    width: 100%;
+    margin-left:10px;
+}

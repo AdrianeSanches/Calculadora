@@ -1,0 +1,78 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <!--  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">  - serve para importar a biblioteca de ícones, caso eu queira usar -->
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="./calc.css"> <!-- serve para fazer a conexão do html com o CSS-->
+    <script type="text/javascript" src="calc.js"></script> <!-- serve para fazer a conexão do html com o java script -->
+    
+</head>
+
+<body>
+    <header>
+ 
+
+    </header>
+
+    <nav>
+        <table>
+
+            <div class="table">
+                
+                <tr>
+                    <th colspan="4">
+                        <p id="display"></p>
+                        <!-- <input type="text" name="display" id="display "maxlength="18" size="1" disabled> -->
+                    </th>
+                </tr>
+
+                <tr>
+                    <th colspan="2"><button onclick="location.reload()" id="clean">Clean</button></th>
+                    <!--<th><button onclick="testeFunction()">C</button></th> -->
+                    <th><input type="button" value="CE" onclick="backspace()"></th>
+                    <th><button onclick="">/</button></th>
+                </tr>
+                
+                <tr>
+                    <th><button onclick="atribuirValor(9)">9</button></th>
+                    <th><button onclick="atribuirValor(8)">8</button></th>
+                    <th><button onclick="atribuirValor(7)">7</button></th>
+                    <th><button onclick="">*</button></th>
+                </tr>
+                
+                <tr>
+                    <th><button onclick="atribuirValor(6)">6</button></th>
+                    <th><button onclick="atribuirValor(5)">5</button></th>
+                    <th><button onclick="atribuirValor(4)">4</button></th>
+                    <th><button onclick="">-</button></th>
+                </tr>
+                <tr>
+                    <th><button onclick="atribuirValor(3)">3</button></th>
+                    <th><button onclick="atribuirValor(2)">2</button></th>
+                    <th><button onclick="atribuirValor(1)">1</button></th>
+                    <th><button onclick="">+</button></th>
+                </tr>
+                
+                <tr>
+                    <th><button onclick="">%</button></th>
+                    <th><button onclick="atribuirValor(0)">0</button></th>
+                    <th><button onclick="">,</button></th>
+                    <th><button onclick="">=</button></th>
+                </tr>
+
+            </div>
+            
+        </table>
+
+    </nav>
+
+    <nav>
+    </nav>
+
+    <footer>
+    </footer>
+
+</body>
+
+</html>
