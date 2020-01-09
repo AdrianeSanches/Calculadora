@@ -1,1 +1,49 @@
-<mxfile host="www.draw.io" modified="2020-01-09T20:54:33.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="brMvkKbeuFLXgodyfEEp" version="12.5.1" type="github"><diagram id="y_1jfbSf-2TF7xb0SRV3" name="Page-1">3ZjbcpswEIafhst0bAQOufQpTdqmTgdPT3cKrI1aQIwQtd2n7wqEDYgcOlPHSS+MpV/nb1dajSwyTbZvBc2iGx5CbNmDcGuRmWXb7tDGrxJ2lTAaOpWwFiyspOFB8Nlv0OJAqwULIW9VlJzHkmVtMeBpCoFsaVQIvmlXW/G4PWpG12AIfkBjU/3CQhlVqucODvoVsHVUjzwc6JKE1pW1kEc05JuGROYWmQrOZZVKtlOIFbuaS9Xu8p7S/cQEpPIpDcTsXe5+H5x9+CSudh7b/FhtgrOLqpdfNC70gvVk5a4mgL0gbMxMNhGT4Gc0UCUbNDdqkUxizA0xSfOsssCKbQEHnaxYHE95zEXZEQld8EIH9VwK/hMaJZ59R0YjLNGzASFhe+8yh3t46HTAE5Bih1V0A0Lcqsmu7Uibg/UcLUUNw9Ua1f6y3nd8QIoJTfUvCNfjNxDfCoA0iECgPF5bU2KNx2nAKGYBf1OeSmqYQfAiDRXWkvUjpvgXHOuJ1xvXMThe9HB0j8bRNjguISk3GsvVAaPQFUpYMlnEFF3r0oQY8eSuyJ8JYMcRiemJXg/B86MRdB70RB/SSLngPMbRlFNOnJQFL88R9wfqyTzxvIcjS4AJroYLIM9VwrInKi7RkKrzTvklHnop/t9MehxzD3XwLFDrFvcfkkO7hyk5GlPvvwtEozZi1ztxHDJD/euIQ6O2p55699tmPH/ZccjpbPWLE4ehegWvLQy1/XDP52R+aN6HmhinJToSsrUKPf6Nj9/ZtX+78K+X158X1dIVZzxU7wBTavefl1+iWoTqk/JfZZrlGc+ZZGVO+TfFdH+T5eL9/OPJjdUJb8R9YnzzjmYtYlhrkXUBPmqzE1P12hcxx3ki1aPFNNu80Zq3hjQcq3cAzAUxzXMWtLnAlsmv6t71xtW5b42S2VZfycrMTmeqQSA0ng46JHEivBABPLCE6uJjIm8wdR84VgTEai+259HHWY9wyxnO8LBP2hZ1u6dVNX3dqPm20OnH68QYu9OPpGIN0uinNPp+0X1+gNnDC0lV/fDMROZ/AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-09T21:00:08.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="GtPAuu4hzPGiPxzbbhee" version="12.5.1" type="github">
+  <diagram id="y_1jfbSf-2TF7xb0SRV3" name="Page-1">
+    <mxGraphModel dx="942" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="335" y="10" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-10" value="Preencher Agência e Conta" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="64" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-12" value="Tem mais de um Titular?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="130" width="80" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-14" value="Preencher Senha Eletrônica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="220" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-17" value="Primeiro acesso + cadastro Token MBF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="21" y="10" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="61" y="58" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-19" value="Preencher Agência e Conta" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="36" y="120" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-20" value="Tem mais de um Titular?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="41" y="190" width="80" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-21" value="Preencher Senha Eletrônica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="36" y="270" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-22" value="Preencher Código SMS DISPOSITIVO para lliberação do novo dispositivo e ativação do TOKEN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="21" y="350" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-23" value="Opção Código SMS DISPOSITIVO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="440" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="rDJs5Z0-LQrHy8iwjfwc-24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rDJs5Z0-LQrHy8iwjfwc-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="550" as="sourcePoint"/>
+            <mxPoint x="81" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
